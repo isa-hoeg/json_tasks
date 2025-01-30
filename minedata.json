@@ -1,11 +1,11 @@
 {
   "navn": {
-    "fornavn": "sabella",
+    "fornavn": "Isabella",
     "efternavn": "Hoeg Hansen"
   },
   "alder": 22,
   "studerende": true,
-  "interesser": ["Design", "Mode", "Mad", "Rejser"],
+  "interesser": ["Design", "Mode", "Rejser"],
   "adresse": {
     "vej": "Thyges Vænge 6, 3. tv.",
     "by": "Kastrup",
