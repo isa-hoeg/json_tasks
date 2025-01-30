@@ -28,5 +28,23 @@
       "Instagram": "@majaestrup"
     },
     "Fødselsdato": "05-10-2000"
+  },
+
+  {
+    "navn": {
+      "fornavn": "Emilie",
+      "efternavn": "Bisgaard"
+    },
+
+    "alder": 25,
+    "studerende": true,
+    "interesser": ["Medier", "Musik", "Mode"],
+    "adresse": {
+      "vej": "Rovsingsgade 43",
+      "by": "København N",
+      "postnummer": "2200"
+    },
+
+    "fødselsdato": "1999-02-07"
   }
 ]
