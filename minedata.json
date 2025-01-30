@@ -46,5 +46,21 @@
     },
 
     "fødselsdato": "1999-02-07"
+  },
+
+  {
+    "navne": {
+      "fornavn": "Julie",
+      "efternavn": "Fox"
+    },
+    "alder": 23,
+    "studerende": true,
+    "interesser": ["Design", "Medier", "Rejser"],
+    "adresse": {
+      "vej": "Wittenberggade 29",
+      "by": "København S",
+      "postnummer": 2300
+    },
+    "fødselsdato": "2001-11-16"
   }
 ]
