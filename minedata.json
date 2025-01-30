@@ -1,15 +1,32 @@
-{
-  "navn": {
-    "fornavn": "Isabella",
-    "efternavn": "Hoeg Hansen"
+[
+  {
+    "navn": {
+      "fornavn": "Isabella",
+      "efternavn": "Hoeg Hansen"
+    },
+    "alder": 22,
+    "studerende": true,
+    "interesser": ["Design", "Mode", "Rejser"],
+    "adresse": {
+      "vej": "Thyges Vænge 6, 3. tv.",
+      "by": "Kastrup",
+      "postnummer": "2770"
+    },
+    "fødselsdato": "2002-02-03"
   },
-  "alder": 22,
-  "studerende": true,
-  "interesser": ["Design", "Mode", "Rejser"],
-  "adresse": {
-    "vej": "Thyges Vænge 6, 3. tv.",
-    "by": "Kastrup",
-    "postnummer": "2770"
-  },
-  "fødselsdato": "2002-02-03"
-}
+  {
+    "navn": {
+      "fornavn": "Maja",
+      "efternavn": "Estrup"
+    },
+    "alder": 24,
+    "studerende": true,
+    "interesser": ["Design", "SOME", "Rejser"],
+    "kontakt": {
+      "e-mail": "majaestrup@gmail.com",
+      "Facebook": "Maja Estrup",
+      "Instagram": "@majaestrup"
+    },
+    "Fødselsdato": "05-10-2000"
+  }
+]
